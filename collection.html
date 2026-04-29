@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Collection | Jerusalem Signet</title>
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;700&family=Playfair+Display:ital,wght@0,700;1,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
@@ -11,12 +12,30 @@
         <div class="logo">
             <a href="index.html"><img src="assets/svg/Jerusalemsignet.svg" alt="Jerusalem Signet Logo"></a>
         </div>
+        <div class="ribbon-page-title">Our Gallery</div>
+        <button
+            class="site-nav-toggle"
+            type="button"
+            aria-label="Open site navigation"
+            aria-expanded="false"
+            aria-controls="site-nav-menu"
+            data-site-menu-toggle
+        >
+            <span class="site-nav-toggle-bar"></span>
+            <span class="site-nav-toggle-bar"></span>
+            <span class="site-nav-toggle-bar"></span>
+        </button>
+        <div id="site-nav-menu" class="site-nav-menu" data-site-menu>
+            <a href="heritage.html" class="site-nav-link">Our Story</a>
+            <a href="collection.html" class="site-nav-link">Our Gallery</a>
+            <a href="wisdom.html" class="site-nav-link">Ancient Insights</a>
+            <a href="connect.html" class="site-nav-link">Connect</a>
+        </div>
         <nav>
-            <ul>
-                <li><a href="index.html">Main page</a></li>
+            <ul class="nav-titles">
                 <li><a href="heritage.html">Our Story</a></li>
-                <li><a href="wisdom.html">Ancestral Wisdom</a></li>
-                <li><a href="blessings.html">Blessings</a></li>
+                <li><a href="collection.html">Our Gallery</a></li>
+                <li><a href="wisdom.html">Ancient Insights</a></li>
                 <li><a href="connect.html">Connect</a></li>
             </ul>
         </nav>
@@ -24,7 +43,6 @@
 
    <section class="heritage-hero">
         <div class="container">
-            <span class="label">Our Gallery</span>
             <h1>The Collection</h1>
             <p class="quote">“Handcrafted Artifacts from the Hills of Galilee”</p>
         </div>
@@ -70,7 +88,10 @@
 			<li>Inner Peace</li>
                         <li><strong>Bespoke Custom Orders</strong></li>
                     </ul>
-                    <a href="pricing.html" class="price-link">View Selection & Pricing</a>
+                    <!-- FUTURE: Pricing flow postponed.
+                         Original CTA (restore later when pricing is re-enabled):
+                         <a href="pricing===.html" class="price-link">View Selection & Pricing</a>
+                    -->
                 </div>
             </div>
         </div>
@@ -91,7 +112,10 @@
                 <div class="selection-gate">
                     <h4>Personalization:</h4>
                     <p>Select your personal blessing from our curated list or order a custom-written scroll for a unique legacy gift.</p>
-                    <a href="pricing.html" class="price-link">Inquire for Pricing</a>
+                    <!-- FUTURE: Pricing flow postponed.
+                         Original CTA (restore later when pricing is re-enabled):
+                         <a href="pricing===.html" class="price-link">Inquire for Pricing</a>
+                    -->
                 </div>
             </div>
         </div>
@@ -102,6 +126,7 @@
     <footer class="main-footer">
     <div class="footer-container">
         <a href="index.html" class="back-home">Back to Main Page</a>
+        <a href="privacy.html">Privacy Policy</a>
         
         <div class="footer-branding">
 	     <img src="assets/images/cohanim.png" alt="Olive Tree" class="footer-cohen">
@@ -113,5 +138,8 @@
         <p>&copy; 2026 Jerusalem Signet. All Rights Reserved.</p>
     </div>
 </footer>
+
+<script src="js/script.js"></script>
+
 </body>
 </html>

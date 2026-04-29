@@ -9,6 +9,10 @@
  */
 
 document.addEventListener("DOMContentLoaded", function() {
+    const prefersReducedMotion =
+        typeof window !== 'undefined' &&
+        typeof window.matchMedia === 'function' &&
+        window.matchMedia('(prefers-reduced-motion: reduce)').matches;
     
     // ==========================================
     // 1. PRICING ENGINE LOGIC
@@ -79,36 +83,52 @@ document.addEventListener("DOMContentLoaded", function() {
     // Targets: Gallery items, Pricing steps, and Footer branding
     const animateElements = document.querySelectorAll('.gallery-item, .step-box, .builder-summary, .product-set, .footer-branding');
 
-    // Initial Styles: Hide elements and offset them slightly
-    animateElements.forEach(el => {
-        el.style.opacity = "0";
-        el.style.transform = "translateY(40px)";
-        el.style.transition = "all 0.9s cubic-bezier(0.2, 0.6, 0.3, 1)";
-    });
-
-    /**
-     * Checks vertical scroll position to trigger reveal
-     */
-    function handleReveal() {
-        const windowHeight = window.innerHeight;
-        
+    if (!prefersReducedMotion) {
+        // Initial Styles: Hide elements and offset them slightly
         animateElements.forEach(el => {
-            const elementTop = el.getBoundingClientRect().top;
-            const revealPoint = 100; // Trigger 100px before the element enters view
-
-            if (elementTop < windowHeight - revealPoint) {
-                el.style.opacity = "1";
-                el.style.transform = "translateY(0)";
-            }
+            el.style.opacity = "0";
+            el.style.transform = "translateY(40px)";
+            el.style.transition = "all 0.9s cubic-bezier(0.2, 0.6, 0.3, 1)";
         });
-    }
 
-    // Event listeners for scrolling and resizing
-    window.addEventListener('scroll', handleReveal);
-    window.addEventListener('resize', handleReveal);
-    
-    // Trigger once on load to reveal anything already in the viewport
-    handleReveal();
+        if ('IntersectionObserver' in window) {
+            const observer = new IntersectionObserver((entries, obs) => {
+                entries.forEach(entry => {
+                    if (!entry.isIntersecting) return;
+                    const el = entry.target;
+                    el.style.opacity = "1";
+                    el.style.transform = "translateY(0)";
+                    obs.unobserve(el);
+                });
+            }, { root: null, rootMargin: '0px 0px -80px 0px', threshold: 0.1 });
+
+            animateElements.forEach(el => observer.observe(el));
+        } else {
+            /**
+             * Checks vertical scroll position to trigger reveal
+             */
+            function handleReveal() {
+                const windowHeight = window.innerHeight;
+                
+                animateElements.forEach(el => {
+                    const elementTop = el.getBoundingClientRect().top;
+                    const revealPoint = 100; // Trigger 100px before the element enters view
+
+                    if (elementTop < windowHeight - revealPoint) {
+                        el.style.opacity = "1";
+                        el.style.transform = "translateY(0)";
+                    }
+                });
+            }
+
+            // Event listeners for scrolling and resizing
+            window.addEventListener('scroll', handleReveal);
+            window.addEventListener('resize', handleReveal);
+            
+            // Trigger once on load to reveal anything already in the viewport
+            handleReveal();
+        }
+    }
 
 
     // ==========================================
@@ -122,11 +142,83 @@ document.addEventListener("DOMContentLoaded", function() {
             
             if (targetElement) {
                 targetElement.scrollIntoView({
-                    behavior: 'smooth',
+                    behavior: prefersReducedMotion ? 'auto' : 'smooth',
                     block: 'start'
                 });
             }
         });
     });
+
+    // ==========================================
+    // 4. SUBJECT RIBBON HAMBURGER (SITE NAV)
+    // ==========================================
+    const siteMenuToggle = document.querySelector('[data-site-menu-toggle]');
+    const siteMenu = document.querySelector('[data-site-menu]');
+
+    if (siteMenuToggle && siteMenu) {
+        const closeSiteMenu = () => {
+            siteMenu.classList.remove('is-open');
+            siteMenuToggle.setAttribute('aria-expanded', 'false');
+        };
+
+        siteMenuToggle.addEventListener('click', () => {
+            const isOpen = siteMenu.classList.toggle('is-open');
+            siteMenuToggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+        });
+
+        siteMenu.addEventListener('click', (e) => {
+            const target = e.target;
+            if (target && target.matches && target.matches('a')) {
+                closeSiteMenu();
+            }
+        });
+
+        document.addEventListener('click', (e) => {
+            if (!siteMenu.classList.contains('is-open')) return;
+            if (siteMenu.contains(e.target)) return;
+            if (siteMenuToggle.contains(e.target)) return;
+            closeSiteMenu();
+        });
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeSiteMenu();
+        });
+    }
+
+    // ==========================================
+    // 5. WISDOM PAGE SECTION HAMBURGER
+    // ==========================================
+    const sectionMenuToggle = document.querySelector('[data-section-menu-toggle]');
+    const sectionMenu = document.querySelector('[data-section-menu]');
+
+    if (sectionMenuToggle && sectionMenu) {
+        const closeMenu = () => {
+            sectionMenu.classList.remove('is-open');
+            sectionMenuToggle.setAttribute('aria-expanded', 'false');
+        };
+
+        sectionMenuToggle.addEventListener('click', () => {
+            const isOpen = sectionMenu.classList.toggle('is-open');
+            sectionMenuToggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+        });
+
+        sectionMenu.addEventListener('click', (e) => {
+            const target = e.target;
+            if (target && target.matches && target.matches('a[href^="#"]')) {
+                closeMenu();
+            }
+        });
+
+        document.addEventListener('click', (e) => {
+            if (!sectionMenu.classList.contains('is-open')) return;
+            if (sectionMenu.contains(e.target)) return;
+            if (sectionMenuToggle.contains(e.target)) return;
+            closeMenu();
+        });
+
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') closeMenu();
+        });
+    }
 
 });
