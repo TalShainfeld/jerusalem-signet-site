@@ -1,0 +1,479 @@
+{
+  "settings": {
+    "pinterest_enabled": true,
+    "canvas_background": "assets/images/templates/pinterest_bg.png",
+    "font_path": "assets/fonts/PlayfairDisplay-Bold.ttf"
+  },
+  "source": {
+    "extracted_from": "wisdom_old.html",
+    "generated_on": "2026-04-23",
+    "migration_note": "full_html fields are extracted losslessly from wisdom_old.html per <article> block."
+  },
+  "general_posts": [
+    {
+      "id": "post_01_divine_blueprint",
+      "icon": "assets/svg/icons/post_01_divine_blueprint.svg",
+      "meta": "Post 01 // The Divine Blueprint",
+      "title": "The Language of Creation: Design, Letters, and Digits",
+      "sections": [
+        {
+          "type": "callout",
+          "text": "Just as humans design the future and build tools using letters and digits, the Creator used the Hebrew alphabet as the raw building blocks of reality."
+        },
+        {
+          "type": "paragraphs",
+          "items": [
+            "Thousands of years ago, the sages of Jerusalem uncovered a profound secret: the universe was not built from matter, but from information.",
+            "In the Sefer Yetzirah, it is explained that the world was created using 22 Hebrew letters and 10 divine numbers (Sefirot).",
+            "In this view, the Hebrew language is not just a tool for communication—it is the DNA of existence."
+          ]
+        }
+      ],
+      "pinterest_text": "Ancient Jerusalem wisdom says creation is built from information—22 Hebrew letters + 10 divine numbers. A blueprint hidden in language.",
+      "full_html": "<article class=\"wisdom-post\">\n    <div class=\"post-meta\">Post 01 // The Divine Blueprint</div>\n\n\n    <h2>The Language of Creation: Design, Letters, and Digits</h2>\n\n    <div class=\"design-callout\">\n        <p>\"Just as humans design the future and build tools using letters and digits, the Creator used the Hebrew alphabet as the raw building blocks of reality.\"</p>\n    </div>\n\n\n\n\n    <div class=\"post-content\">\n        <p>Thousands of years ago, the sages of Jerusalem uncovered a profound secret: the universe was not built from matter, but from <strong>information</strong>. In the most ancient text of Hebrew wisdom, the <em>Sefer Yetzirah</em>, it is explained that the world was created using 22 Hebrew letters and 10 divine numbers (Sefirot).</p>\n\n        <p>In this view, the Hebrew language is not just a tool for communication—it is the DNA of existence. When we study these letters, we are looking at the same measures of light and frequency that sustain our world today.</p>\n    </div>\n\n\n\n\n\n</article>",
+      "source_html_file": "wisdom_old.html"
+    },
+    {
+      "id": "post_02_heart_of_wisdom",
+      "icon": "assets/svg/icons/post_02_heart_of_wisdom.svg",
+      "meta": "Post 02 // The Heart of Wisdom",
+      "title": "Why is the Heart connected to the Blueprint of the World?",
+      "sections": [
+        {
+          "type": "paragraphs",
+          "items": [
+            "In Hebrew, every letter carries a numerical value. Lamed (ל) is 30, Bet (ב) is 2—together Lev (לב), Heart, equals 32.",
+            "According to tradition, God created the world through 32 Paths of Wisdom."
+          ]
+        }
+      ],
+      "pinterest_text": "LEV (Heart) in Hebrew equals 32—linked to the “32 Paths of Wisdom.” A hidden number story inside a single word.",
+      "full_html": "<article class=\"wisdom-post\">\n                <div class=\"post-meta\">Post 02 // The Heart of Wisdom</div>\n                <h2>Why is the Heart connected to the Blueprint of the World?</h2>\n                <div class=\"post-content\">\n                    <p>In Hebrew, every letter carries a numerical value. The letter Lamed (ל) is 30, and the letter Bet (ב) is 2. Together, they form the word <strong>Lev (לב)</strong>—Heart—which equals 32.</p>\n                    <p>According to ancient tradition, God created the world through \"32 Paths of Wisdom.\" The entire Creation is, in essence, the \"Heart\" of the Creator.</p>\n                </div>\n            </article>",
+      "source_html_file": "wisdom_old.html"
+    },
+    {
+      "id": "post_03_pardes",
+      "icon": "assets/svg/icons/post_03_pardes.svg",
+      "meta": "Post 03 // PARDES",
+      "title": "Entering the PARDES: The 4 Layers of a Verse",
+      "intro": "PARDES (“Orchard”) describes four levels of understanding—root of the word “Paradise.”",
+      "pardes": {
+        "layers": [
+          {
+            "id": "peshat",
+            "label": "Peshat",
+            "subtitle": "Plain",
+            "description": "The literal, historical meaning. The surface of the text."
+          },
+          {
+            "id": "remez",
+            "label": "Remez",
+            "subtitle": "Hint",
+            "description": "Numerical connections, patterns, and Gematria."
+          },
+          {
+            "id": "drash",
+            "label": "Drash",
+            "subtitle": "Interpretation",
+            "description": "Homiletic, moral, and allegorical lessons."
+          },
+          {
+            "id": "sod",
+            "label": "Sod",
+            "subtitle": "Secret",
+            "description": "Mystical energy and the spiritual essence of the letters."
+          }
+        ]
+      },
+      "pinterest_text": "PARDES: 4 layers of Torah reading—Peshat, Remez, Drash, Sod. A map for going deeper than the surface.",
+      "full_html": "<article class=\"wisdom-post\">\n    <div class=\"post-meta\">Post 03 // PARDES</div>\n    <h2>Entering the PARDES: The 4 Layers of a Verse</h2>\n    <div class=\"post-content\">\n        <p>In the Hebrew tradition, every word is a gateway to a magnificent palace. The sages used the word <strong>PARDES</strong> (meaning \"Orchard\") to describe the four levels of understanding. This is the same root from which we get the word <strong>Paradise</strong> suggesting that when we study the Word deeply, we are literally entering a spiritual Heaven on Earth.</p>\n\n        <ul class=\"pardes-list\">\n            <li>\n                <strong>Peshat <br>(Plain)</strong>\n                <span>– The literal, historical meaning. The \"surface\" of the text.</span>\n            </li>\n            <li>\n                <strong>Remez <br>(Hint)</strong>\n                <span>– The numerical connections, patterns, and Gematria.</span>\n            </li>\n            <li>\n                <strong>Drash <br>(Interpretation)</strong>\n                <span>– The homiletic, moral, and allegorical lessons.</span>\n            </li>\n            <li>\n                <strong>Sod <br>(Secret)</strong>\n                <span>– The mystical energy, the \"Paradise\" of the letters, and the spiritual essence.</span>\n            </li>\n        </ul>\n    </div>\n</article>",
+      "source_html_file": "wisdom_old.html"
+    },
+    {
+      "id": "post_04_divine_balance",
+      "icon": "assets/svg/icons/post_04_divine_balance.svg",
+      "meta": "Post 04 // The Divine Balance",
+      "title": "The Balance of Existence: Harmony in the Hebrew Letters",
+      "symbols": [
+        {
+          "hebrew": "י",
+          "label": "The Spark (Yod)"
+        },
+        {
+          "hebrew": "ה",
+          "label": "The Expansion (Heh)"
+        }
+      ],
+      "sections": [
+        {
+          "type": "paragraphs",
+          "items": [
+            "Hebrew wisdom teaches balance between “Giving” and “Receiving,” often described as harmony between masculine and feminine (Shekhinah).",
+            "Yod is the seed/spark; Heh is expansion—the womb where thought becomes reality."
+          ]
+        },
+        {
+          "type": "quote",
+          "text": "Creation can only flourish when there is harmony between the two."
+        }
+      ],
+      "pinterest_text": "Yod (spark) + Heh (expansion): Hebrew letters as a model of balance—giving and receiving, seed and growth.",
+      "full_html": "<article class=\"wisdom-post\">\n    <div class=\"post-meta\">Post 04 // The Divine Balance</div>\n    <h2>The Balance of Existence: Harmony in the Hebrew Letters</h2>\n\n    <div class=\"union-box\">\n        <div class=\"union-letter\">\n            <span class=\"h-letter gold-text\">י</span>\n            <small>The Spark (Yod)</small>\n        </div>\n        <div class=\"union-plus\">+</div>\n        <div class=\"union-letter\">\n            <span class=\"h-letter gold-text\">ה</span>\n            <small>The Expansion (Heh)</small>\n        </div>\n    </div>\n\n    <div class=\"post-content\">\n        <p>One of the most profound secrets of Hebrew wisdom is the balance between the forces of \"Giving\" and \"Receiving.\" This is often described as the harmony between the masculine and the feminine (the <em>Shekhinah</em>).</p>\n\n        <p>In the sacred names of God, we find letters that represent this union. The letter <strong>Yod (י)</strong> represents the initial point—the seed of a thought or the spark of creation. The letter <strong>Heh (ה)</strong>        represents expansion—the \"womb\" where that thought becomes a reality.</p>\n\n        <blockquote class=\"wisdom-quote\">\n            \"Creation can only flourish when there is harmony between the two. Whenever we build a home or nurture a life, we are essentially restoring this sacred balance within our own world.\"\n        </blockquote>\n    </div>\n</article>",
+      "source_html_file": "wisdom_old.html"
+    },
+    {
+      "id": "post_05_architecture_of_partnership",
+      "icon": "assets/svg/icons/post_05_architecture_of_partnership.svg",
+      "meta": "Post 05 // The Architecture of Partnership",
+      "title": "The Heart of Creation: The Sacred Place of Woman",
+      "symbols": [
+        {
+          "hebrew": "צ",
+          "label": "Tzela (Side)"
+        },
+        {
+          "hebrew": "ל",
+          "label": "Lev (Heart)"
+        }
+      ],
+      "sections": [
+        {
+          "type": "paragraphs",
+          "items": [
+            "Ancient teaching: Woman was created from man’s side—not head or feet—equal partner, close to the heart.",
+            "Tzela (rib) also means side/wing, like the sides of the Tabernacle."
+          ]
+        },
+        {
+          "type": "quote",
+          "text": "She was taken from beneath his arm, to be protected by him, and from close to his heart, to be loved by him."
+        }
+      ],
+      "pinterest_text": "A Midrash view of partnership: created from the side—equal, protected, and loved. “Close to the heart” becomes theology.",
+      "full_html": "<article class=\"wisdom-post\">\n    <div class=\"post-meta\">Post 05 // The Architecture of Partnership</div>\n    <h2>The Heart of Creation: The Sacred Place of Woman</h2>\n\n    <div class=\"union-box\">\n        <div class=\"union-letter\">\n            <span class=\"h-letter gold-text\">צ</span>\n            <small>Tzela (Side)</small>\n        </div>\n        <div class=\"union-plus\">/</div>\n        <div class=\"union-letter\">\n            <span class=\"h-letter gold-text\">ל</span>\n            <small>Lev (Heart)</small>\n        </div>\n    </div>\n\n    <div class=\"post-content\">\n        <p>Why was Woman created from the side of Man? Our ancient sages teach that the Creator, in His infinite wisdom, chose a specific place from which to bring forth the companion of Man—Eve (<em>Chava</em>).</p>\n\n        <p>She was not created from his <strong>head</strong>, to rule over him, nor from his <strong>feet</strong>, to be walked upon as inferior. She was created from his <strong>rib</strong>—from his very side—to be his equal partner.</p>\n\n        <blockquote class=\"wisdom-quote\">\n            \"She was taken from beneath his arm, to be protected by him, and from close to his heart, to be loved by him.\"\n        </blockquote>\n\n        <p>In Biblical Hebrew, the word <em>Tzela</em> (rib) also means \"Side\" or \"Wing,\" like the sides of the Tabernacle. She is the side that completes the human edifice. This is why the Talmud cautions: <strong>\"Be very careful about making a woman cry, for God counts her tears.\"</strong></p>\n\n        <p>Because she was created close to the heart, her pain is felt more deeply by the Divine. When a home is built on this mutual respect, the <em>Shekhinah</em> (the Divine Presence) finds a place to dwell.</p>\n    </div>\n</article>",
+      "source_html_file": "wisdom_old.html"
+    },
+    {
+      "id": "post_06_sacred_mirror",
+      "icon": "assets/svg/icons/post_06_sacred_mirror.svg",
+      "meta": "Post 06 // The Sacred Mirror",
+      "title": "Ezer Kenegdo: The Power of the \"Sacred Mirror\"",
+      "sections": [
+        {
+          "type": "paragraphs",
+          "items": [
+            "Ezer Kenegdo is deeper than “help-mate.” Ezer is often used for God—rescuer strength. Kenegdo means opposite/in front—like a mirror.",
+            "If he is right, she supports; if he loses his way, she stands against to reveal truth."
+          ]
+        },
+        {
+          "type": "subsections",
+          "items": [
+            {
+              "title": "The Meaning of \"Ezer\" (עזר)",
+              "text": "An Ezer is a rescuer—never an inferior."
+            },
+            {
+              "title": "The Mystery of \"Kenegdo\" (כנגדו)",
+              "text": "Opposite him—face-to-face, a sacred mirror."
+            },
+            {
+              "title": "The Architecture of Partnership",
+              "text": "Two wings of an eagle: neither above the other; harmony enables flight toward the Divine."
+            }
+          ]
+        }
+      ],
+      "pinterest_text": "Ezer Kenegdo isn’t “assistant”—it’s sacred strength + mirror-truth. A Hebrew phrase that rewrites the idea of partnership.",
+      "full_html": "<article class=\"wisdom-post\">\n    <div class=\"post-meta\">Post 06 // The Sacred Mirror</div>\n    <h2>Ezer Kenegdo: The Power of the \"Sacred Mirror\"</h2>\n\n    <div class=\"post-content\">\n        <p>Most people reading the Bible in English see the words \"Help-mate\" and imagine a subordinate assistant. But in the original Hebrew, the term is <strong>Ezer Kenegdo</strong>, and its true meaning is far more profound.</p>\n\n        <div class=\"concept-split\">\n            <div class=\"concept-box\">\n                <h3>1. The Meaning of \"Ezer\" (עזר)</h3>\n                <p>The word <em>Ezer</em> is never used in the Bible to describe an inferior. In fact, it is most often used to describe <strong>God Himself</strong>. An Ezer is a <em>Rescuer</em>—someone who possesses a unique, divine strength that the other lacks.</p>\n            </div>\n            <div class=\"concept-box\">\n                <h3>2. The Mystery of \"Kenegdo\" (כנגדו)</h3>\n                <p>Kenegdo literally means \"In front of him\" or \"Opposite him.\" Like a mirror, she stands face-to-face. If he is right, she is his supporter. If he loses his way, she stands \"against\" him to show him the truth and guide him back.</p>\n            </div>\n        </div>\n\n        <div class=\"partnership-footer\">\n            <h3>The Architecture of Partnership</h3>\n            <p>In the Hebrew mindset, a husband and wife are like two wings of an eagle. Neither is \"above\" the other, but without both working in perfect, face-to-face harmony, the bird cannot fly toward the Divine.</p>\n        </div>\n    </div>\n</article>",
+      "source_html_file": "wisdom_old.html"
+    },
+    {
+      "id": "post_07_nature_responsibility",
+      "icon": "assets/svg/icons/post_07_nature_responsibility.svg",
+      "meta": "Post 07 // Nature & Responsibility",
+      "title": "The Steward’s Oath: \"Do Not Destroy My World\"",
+      "sections": [
+        {
+          "type": "callout",
+          "text": "Look at My works, how beautiful and praised they are... be careful that you do not spoil or destroy My world—for if you do, there will be no one to repair it after you. — Midrash Kohelet Rabbah"
+        },
+        {
+          "type": "subsections",
+          "items": [
+            {
+              "title": "Bal Tashchit (בל תשחית)",
+              "text": "Prohibition against senseless destruction—humans are guardians, not owners."
+            },
+            {
+              "title": "The Wisdom of the Olive Tree",
+              "text": "Resilience and sustainability across generations; working with olive wood as a form of Tikkun (repair)."
+            }
+          ]
+        },
+        {
+          "type": "reference",
+          "text": "Genesis 2:15 — “to work it and to keep it.”"
+        }
+      ],
+      "pinterest_text": "A Midrash warning for our time: don’t destroy the world. Bal Tashchit + the olive tree as a lesson in stewardship.",
+      "full_html": "<article class=\"wisdom-post\">\n    <div class=\"post-meta\">Post 07 // Nature & Responsibility</div>\n    <h2>The Steward’s Oath: \"Do Not Destroy My World\"</h2>\n\n    <div class=\"nature-callout\">\n        <p>\"Look at My works, how beautiful and praised they are. Everything I have created, I created for you. Now, be careful that you do not spoil or destroy My world—for if you do, there will be no one to repair it after you.\"</p>\n        <cite>— Midrash Kohelet Rabbah</cite>\n    </div>\n\n    <div class=\"post-content\">\n        <h3>The Concept of \"Bal Tashchit\" (בל תשחית)</h3>\n        <p>This teaching is the root of the Hebrew commandment <em>Bal Tashchit</em>—the prohibition against senseless destruction. It teaches us that we are not the owners of the Earth, but its <strong>Guardians</strong>.</p>\n\n        <div class=\"olive-wisdom-box\">\n            <h4>The Wisdom of the Olive Tree</h4>\n            <p>The Olive tree is the ultimate symbol of resilience. It can live for over a thousand years, teaching us that what we build today must be sustainable enough to shade our grandchildren. When we work with Galilee Olive wood, we are practicing <strong>Tikkun</strong> (Repair)—preserving divine beauty so it is never lost to time.</p>\n        </div>\n\n        <p class=\"scripture-ref\">\"The LORD God took the man and put him in the Garden of Eden to work it and to keep it.\" <br>— Genesis 2:15</p>\n    </div>\n</article>",
+      "source_html_file": "wisdom_old.html"
+    }
+  ],
+  "tribes": [
+    {
+      "id": "tribe_01_reuben",
+      "icon": "assets/svg/icons/tribe_01_reuben.svg",
+      "meta": "Tribe 01 // The Firstborn",
+      "name": "Reuben",
+      "hebrew_name": "רְאוּבֵן",
+      "image": "assets/images/tribes/reuben.png",
+      "verse_he": "יְחִי רְאוּבֵן וְאַל יָמֹת, וִיהִי מְתָיו מִסְפָּר.",
+      "verse_en": "Let Reuben live and not die, and let his men be few in number. — (Deuteronomy 33:6)",
+      "stories": [
+        {
+          "title": "Reuben’s Reckless Promise",
+          "text": "Reuben offered his sons as a guarantee for Benjamin’s return; Jacob rejected the “senseless guarantee.”"
+        },
+        {
+          "title": "Reuben and the Mandrakes: A Lesson in Integrity",
+          "text": "Reuben gathered ownerless mandrakes (hefker) with honesty and brought them to Leah, sparking peace between Leah and Rachel."
+        }
+      ],
+      "pinterest_text": "Reuben’s Midrash teaches integrity: even in an open field he only took what was ownerless—and a small act brought peace.",
+      "full_html": "<article class=\"wisdom-post tribe-detail\">\n        <div class=\"post-meta\">Tribe 01 // The Firstborn</div>\n        <div class=\"tribe-header\">\n            <img src=\"assets/images/tribes/reuben.png\" alt=\"Reuben\" class=\"wisdom-tribe-icon\">\n            <h2>Reuben (רְאוּבֵן)</h2>\n        </div>\n        <div class=\"post-content\">\n            <p class=\"hebrew-text\">\"יְחִי רְאוּבֵן וְאַל יָמֹת, וִיהִי מְתָיו מִסְפָּר.\"</p>\n            <p class=\"english-text\">\"Let Reuben live and not die, and let his men be few in number.\" — (Deuteronomy 33:6)</p>\n        </div>\n\n\t<h2>Reuben’s Reckless Promise</h2>\n\t<p class=\"english-text\">When the brothers needed to take Benjamin down to Egypt, Reuben tried to reassure his father, Jacob, by saying: \"You may kill my own two sons if I do not bring Benjamin back to you.\"\n\n        Jacob was not comforted. He looked at Reuben and replied:\"You foolish firstborn! Do you think your sons are not also my sons? If you fail to return Benjamin, would killing my own grandsons ease my pain? That is a senseless     \tguarantee.\"</p>\n\n\t<h2>Reuben and the Mandrakes: A Lesson in Integrity</h2>\n\t<p class=\"english-text\">The Midrash tells a beautiful story about young Reuben during the wheat harvest. While playing in the fields, he found Mandrakes (Dudaim)—sweet-smelling plants known for their beauty.\n\nEven as a young boy, Reuben’s character was exceptional. The sages point out that although he was in an open field, he was careful not to take anything that belonged to others. He did not pick from someone else's garden or a private orchard; he only gathered plants that were ownerless (Hefker) in the wild, showing his deep honesty from a young age.\n\nHe brought the flowers to his mother, Leah, to bring her joy. This simple act of kindness led to a profound moment of peace and cooperation between Leah and Rachel.\n\nJacob later remembered this sensitivity. It reminds us that Reuben’s essence was a mixture of filial piety (honoring his parents) and strict honesty, always trying to bring harmony to his family, even through a small bouquet of wildflowers.</p>\n</article>",
+      "source_html_file": "wisdom_old.html"
+    },
+    {
+      "id": "tribe_02_simeon",
+      "icon": "assets/svg/icons/tribe_02_simeon.svg",
+      "meta": "Tribe 02 // The Brother",
+      "name": "Simeon",
+      "hebrew_name": "שִׁמְעוֹן",
+      "image": "assets/images/tribes/simeon.png",
+      "verse_he": "שִׁמְעוֹן וְלֵוִי אַחִים, כְּלֵי חָמָס מְכֵרֹתֵיהֶם.",
+      "verse_en": "Simeon and Levi are brothers; weapons of violence are their swords. — (Genesis 49:5)",
+      "stories": [
+        {
+          "title": "Simeon and Levi: The Fearless Defenders",
+          "text": "A Midrash portrait of terrifying brotherly strength—loyalty that shakes empires, yet warns about fierce anger."
+        }
+      ],
+      "pinterest_text": "Simeon’s legend is fierce: unbreakable brotherhood + a warning about anger that outlives the moment.",
+      "full_html": "<article class=\"wisdom-post tribe-detail\">\n        <div class=\"post-meta\">Tribe 02 // The Brother</div>\n        <div class=\"tribe-header\">\n            <img src=\"assets/images/tribes/simeon.png\" alt=\"Simeon\" class=\"wisdom-tribe-icon\">\n            <h2>Simeon (שִׁמְעוֹן)</h2>\n        </div>\n        <div class=\"post-content\">\n            <p class=\"hebrew-text\">\"שִׁמְעוֹן וְלֵוִי אַחִים, כְּלֵי חָמָס מְכֵרֹתֵיהֶם.\"</p>\n            <p class=\"english-text\">\"Simeon and Levi are brothers; weapons of violence are their swords.\" — (Genesis 49:5)</p>\n        </div>\n\t<h2>Simeon and Levi: The Fearless Defenders</h2>\n\t<p class=\"english-text\">When Joseph (disguised as the Egyptian viceroy) threatened to keep Benjamin as a slave, Simeon and Levi stood together in fierce defiance. The Midrash describes their terrifying strength:\n\nTheir combined roar was so powerful that it shook the very foundations of the Egyptian palaces.Jacob later criticized their anger, saying:\"Cursed be their anger, for it is fierce.\"\n\nYet, throughout history, their bond taught a powerful lesson: While anger can be destructive, the unbreakable loyalty between brothers is a force that even the strongest empires cannot ignore.</p>\n    </article>",
+      "source_html_file": "wisdom_old.html"
+    },
+    {
+      "id": "tribe_03_levi",
+      "icon": "assets/svg/icons/tribe_03_levi.svg",
+      "meta": "Tribe 03 // The Teacher",
+      "name": "Levi",
+      "hebrew_name": "לֵוִי",
+      "image": "assets/images/tribes/levi.png",
+      "verse_he": "יוֹרוּ מִשְׁפָּטֶיךָ לְיַעֲקֹב, וְתוֹרָתְךָ לְיִשְׂרָאֵל.",
+      "verse_en": "They shall teach Jacob Your ordinances, and Israel Your law. — (Deuteronomy 33:10)",
+      "stories": [
+        {
+          "title": "Simeon and Levi: The Conflict at Shechem",
+          "text": "A structured retelling (Dinah, deception, massacre, Jacob’s fear, deathbed rebuke) emphasizing consequences of violence."
+        }
+      ],
+      "pinterest_text": "Levi’s story here is a moral warning: a just cause can still leave lasting consequences when anger becomes method.",
+      "full_html": "<article class=\"wisdom-post tribe-detail\">\n        <div class=\"post-meta\">Tribe 03 // The Teacher</div>\n        <div class=\"tribe-header\">\n            <img src=\"assets/images/tribes/levi.png\" alt=\"Levi\" class=\"wisdom-tribe-icon\">\n            <h2>Levi (לֵוִי)</h2>\n        </div>\n        <div class=\"post-content\">\n            <p class=\"hebrew-text\">\"יוֹרוּ מִשְׁפָּטֶיךָ לְיַעֲקֹב, וְתוֹרָתְךָ לְיִשְׂרָאֵל.\"</p>\n            <p class=\"english-text\">\"They shall teach Jacob Your ordinances, and Israel Your law.\" — (Deuteronomy 33:10)</p>\n        </div>\n\n<div dir=\"ltr\">\n  <h2 align=\"center\"><b>Simeon and Levi: The Conflict at Shechem</b></h2>\n  <hr>\n\n  <h3><u><b>The Background: The Defiling of Dinah</b></u></h3>\n  <p>\n    The conflict began when <b>Dinah</b>, the daughter of Jacob and Leah, went out to visit the local women in the city of <b>Shechem</b>. The prince of the city, also named Shechem, saw her, took her by force, and defiled her.\n  </p>\n  <p>\n    Despite the act of violence, the prince claimed to love Dinah and asked his father, Hamor, to negotiate a marriage with Jacob’s family.\n  </p>\n\n  <h3><u><b>The Deception</b></u></h3>\n  <p>\n    When Jacob’s sons heard what had happened, they were filled with <i>\"furious anger\"</i> because Shechem had committed a <b>\"disgraceful thing in Israel.\"</b> However, rather than seeking a legal or peaceful resolution, they spoke deceitfully to the people of Shechem.\n  </p>\n  <p>\n    They told the prince and his father that they could only agree to the marriage if every male in the city was <b>circumcised</b>, claiming they could not give their sister to an uncircumcised man. The men of Shechem, eager for an alliance with the wealthy family of Jacob, agreed and underwent the procedure.\n  </p>\n\n  <h3><u><b>The Massacre</b></u></h3>\n  <p>\n    On the third day after the circumcision, while the men of the city were in great pain and unable to defend themselves, <b>Simeon and Levi</b> took their swords and entered the city:\n  </p>\n  <ul>\n    <li>They killed every male in the city, including the prince and his father.</li>\n    <li>They rescued their sister Dinah from Shechem’s house.</li>\n    <li>The other brothers then joined in, looting the city and taking the flocks, wealth, and captives.</li>\n  </ul>\n\n  <h3><u><b>Jacob’s Reaction: Fear and Practicality</b></u></h3>\n  <p>\n    Jacob’s immediate reaction was one of distress and fear. He said:\n  </p>\n  <blockquote>\n    <i>\"You have brought trouble on me by making me a stench to the Canaanites and Perizzites... We are few in number, and if they unite against us and attack me, I and my household will be destroyed.\"</i>\n    <br><b>(Genesis 34:30)</b>\n  </blockquote>\n  <p>\n    Simeon and Levi’s defiant response was: <b>\"Should he have treated our sister like a prostitute?\"</b>\n  </p>\n\n  <h3><u><b>The Final Judgment: Jacob’s Deathbed Rebuke</b></u></h3>\n  <p>\n    The reason they are viewed as \"reckless\" is seen years later in <b>Genesis 49</b>, when Jacob issued a harsh rebuke to Simeon and Levi:\n  </p>\n  <ol>\n    <li><b>Violence as a Tool:</b> He called their swords <i>\"weapons of violence\"</i> and refused to let his soul enter their council.</li>\n    <li><b>Uncontrolled Anger:</b> He said, <b>\"Cursed be their anger, for it is fierce, and their fury, for it is cruel!\"</b></li>\n    <li><b>The Punishment:</b> Because they had acted impulsively and violently, Jacob declared that their descendants would be <b>scattered</b> throughout Israel rather than having a single, unified territory.</li>\n  </ol>\n\n  <hr>\n  <p align=\"center\"><i>This narrative serves as a warning that while the cause may be just, the methods of anger and treachery carry long-lasting consequences.</i></p>\n</div>\n\n\n\n\n\n\n\n\n    </article>",
+      "source_html_file": "wisdom_old.html"
+    },
+    {
+      "id": "tribe_04_judah",
+      "icon": "assets/svg/icons/tribe_04_judah.svg",
+      "meta": "Tribe 04 // The Leadership",
+      "name": "Judah",
+      "hebrew_name": "יְהוּדָה",
+      "image": "assets/images/tribes/judah.png",
+      "verse_he": "גּוּר אַרְיֵה יְהוּדָה, מִטֶּרֶף בְּנִי עָלִיתָ.",
+      "verse_en": "Judah is a lion's cub; from the prey, my son, you have gone up. — (Genesis 49:9)",
+      "stories": [
+        {
+          "title": "Judah: The Roaring Lion",
+          "text": "Judah’s accountability for Benjamin becomes the model of leadership—courage, responsibility, and fierce protection."
+        }
+      ],
+      "pinterest_text": "Judah’s Midrash: leadership is accountability. He steps forward for Benjamin—raw courage that earns kingship.",
+      "full_html": "<article class=\"wisdom-post tribe-detail\">\n        <div class=\"post-meta\">Tribe 04 // The Leadership</div>\n        <div class=\"tribe-header\">\n            <img src=\"assets/images/tribes/judah.png\" alt=\"Judah\" class=\"wisdom-tribe-icon\">\n            <h2>Judah (יְהוּדָה)</h2>\n        </div>\n        <div class=\"post-content\">\n            <p class=\"hebrew-text\">\"גּוּר אַרְיֵה יְהוּדָה, מִטֶּרֶף בְּנִי עָלִיתָ.\"</p>\n            <p class=\"english-text\">\"Judah is a lion's cub; from the prey, my son, you have gone up.\" — (Genesis 49:9)</p>\n        </div>\n\n<h2>Judah: The Roaring Lion</h2>\n\t<p class=\"english-text\">When the Egyptian ruler insisted on keeping Benjamin as a slave, Judah stepped forward. He didn't just speak; he prepared for war.\n\nThe Midrash describes that Judah was so filled with holy rage that a single hair on his chest stood up, piercing through his armor. He let out a roar that was heard all the way to the Land of Israel, hundreds of miles away.\n\nJudah told the ruler (Joseph):\n\n\"You may be the king of Egypt, but I am the king of my brothers. If you do not release Benjamin, I will dye the streets of Egypt red. I gave my word to my father to be a guarantor for the boy, and I will not return without him.\"\n\nIt was this absolute accountability and raw courage that proved Judah was worthy of being the forefather of the Jewish kings.</p>\n\n </article>",
+      "source_html_file": "wisdom_old.html"
+    },
+    {
+      "id": "tribe_05_dan",
+      "icon": "assets/svg/icons/tribe_05_dan.svg",
+      "meta": "Tribe 05 // The Judge",
+      "name": "Dan",
+      "hebrew_name": "דָּן",
+      "image": "assets/images/tribes/dan.png",
+      "verse_he": "יְהִי דָן נָחָשׁ עֲלֵי דֶרֶךְ, שְׁפִיפֹן עֲלֵי אֹרַח.",
+      "verse_en": "Dan shall be a serpent by the way... — (Genesis 49:17)",
+      "stories": [
+        {
+          "title": "Dan: The Restorer of Lost Things",
+          "text": "Dan marched last as the gatherer (Me'assef), returning what others lost; quiet strength that sustains the whole camp."
+        }
+      ],
+      "pinterest_text": "Dan’s hidden greatness: the tribe that walked last, returning what was lost—proof that the back line saves the nation.",
+      "full_html": "<article class=\"wisdom-post tribe-detail\">\n        <div class=\"post-meta\">Tribe 05 // The Judge</div>\n        <div class=\"tribe-header\">\n            <img src=\"assets/images/tribes/dan.png\" alt=\"Dan\" class=\"wisdom-tribe-icon\">\n            <h2>Dan (דָּן)</h2>\n        </div>\n        <div class=\"post-content\">\n            <p class=\"hebrew-text\">\"יְהִי דָן נָחָשׁ עֲלֵי דֶרֶךְ, שְׁפִיפֹן עֲלֵי אֹרַח.\"</p>\n            <p class=\"english-text\">\n\"Dan shall be a serpent by the way, a horned snake in the path, that biteth the horse's heels, so that his rider falleth backward.\" — (Genesis 49:17)</p>\n        </div>\n\n\n\n<h2>Dan: The Restorer of Lost Things</h2>\n\t<p class=\"english-text\">The tribe of Dan held a unique and humble role in the wilderness. While the other tribes marched forward, Dan was the \"Gatherer\" (the Me'assef). They were the last ones in line, ensuring that no person and no object was left behind.The Midrash tells us that if a person from another tribe dropped a precious jewel, or if an elderly person struggled to keep pace, the men of Dan were there to pick them up and return them to their rightful place.Jacob blessed Dan by saying:\n\n\"Dan shall judge his people as one of the tribes of Israel.\" The legend says that Dan’s strength was like that of a serpent—quiet but powerful. From this tribe would later come Samson, the strongest man to ever live, who fought alone against entire armies to protect his people. Dan reminds us that even those who stand in the back are essential for the survival of the whole nation.</p>\n\n</article>",
+      "source_html_file": "wisdom_old.html"
+    },
+    {
+      "id": "tribe_06_naphtali",
+      "icon": "assets/svg/icons/tribe_06_naphtali.svg",
+      "meta": "Tribe 06 // The Eloquent",
+      "name": "Naphtali",
+      "hebrew_name": "נַפְתָּלִי",
+      "image": "assets/images/tribes/naphtali.png",
+      "verse_he": "נַפְתָּלִי אַיָּלָה שְׁלֻחָה, הַנֹּתֵן אִמְרֵי שָׁפֶר.",
+      "verse_en": "Naphtali is a hind let loose; he gives beautiful words. — (Genesis 49:21)",
+      "stories": [
+        {
+          "title": "Naphtali: The Messenger of Light",
+          "text": "Swift as a deer—runs to fetch the deed for Machpelah so Jacob can be buried in peace."
+        }
+      ],
+      "pinterest_text": "Naphtali’s legend: speed used for peace—he runs for truth so Jacob can be laid to rest with honor.",
+      "full_html": "<article class=\"wisdom-post tribe-detail\">\n        <div class=\"post-meta\">Tribe 06 // The Eloquent</div>\n        <div class=\"tribe-header\">\n            <img src=\"assets/images/tribes/naphtali.png\" alt=\"Naphtali\" class=\"wisdom-tribe-icon\">\n            <h2>Naphtali (נַפְתָּלִי)</h2>\n        </div>\n        <div class=\"post-content\">\n            <p class=\"hebrew-text\">\"נַפְתָּלִי אַיָּלָה שְׁלֻחָה, הַנֹּתֵן אִמְרֵי שָׁפֶר.\"</p>\n            <p class=\"english-text\">\"Naphtali is a hind let loose; he gives beautiful words.\" — (Genesis 49:21)</p>\n        </div>\n<h2>Naphtali: The Messenger of Light</h2>\n\t<p class=\"english-text\">Naphtali was known as the \"swift deer\" of the tribes. The Midrash tells us that he was so light on his feet that he could run across a field of ripening grain without bending a single stalk.\n\nThe most famous legend of Naphtali takes place during the funeral of Jacob. When the brothers arrived at the Cave of Machpelah, Esau blocked the entrance, claiming the spot was his. The brothers knew they had the legal deed to the cave, but the document was left behind in Egypt.\n\nNaphtali stepped forward and said, \"I will go!\" He ran from the Land of Israel to Egypt and back so fast that the Midrash says he returned before the dust from the brothers' arrival had even settled. Because of his speed, the truth was revealed, the document was produced, and Jacob was laid to rest in peace.Jacob blessed him:\"Naphtali is a deer let loose; he gives beautiful words.\" This teaches us that Naphtali’s speed wasn't just physical—it was the speed of a kind heart, always ready to bring good news and resolve conflict with grace.</p>\n\n    </article>",
+      "source_html_file": "wisdom_old.html"
+    },
+    {
+      "id": "tribe_07_gad",
+      "icon": "assets/svg/icons/tribe_07_gad.svg",
+      "meta": "Tribe 07 // The Troop",
+      "name": "Gad",
+      "hebrew_name": "גָּד",
+      "image": "assets/images/tribes/gad.png",
+      "verse_he": "גָּד גְּדוּד יְגוּדֶנּוּ, וְהוּא יָגֻד עָקֵב.",
+      "verse_en": "Gad, a troop shall press upon him... — (Genesis 49:19)",
+      "stories": [
+        {
+          "title": "Gad: The Brave Vanguard",
+          "text": "Frontier warriors who chose to fight for their brothers first—vanguard leadership rooted in selflessness."
+        }
+      ],
+      "pinterest_text": "Gad’s Midrash: strength with loyalty—warriors who refused to rest until every brother had secured his land.",
+      "full_html": "<article class=\"wisdom-post tribe-detail\">\n        <div class=\"post-meta\">Tribe 07 // The Troop</div>\n        <div class=\"tribe-header\">\n            <img src=\"assets/images/tribes/gad.png\" alt=\"Gad\" class=\"wisdom-tribe-icon\">\n            <h2>Gad (גָּד)</h2>\n        </div>\n        <div class=\"post-content\">\n            <p class=\"hebrew-text\">\"גָּד גְּדוּד יְגוּדֶנּוּ, וְהוּא יָגֻד עָקֵב.\"</p>\n            <p class=\"english-text\">\"Gad, a troop shall press upon him, but he shall press upon their heel.\" — (Genesis 49:19)</p>\n        </div>\n\n<h2>Gad: The Brave Vanguard</h2>\n\t<p class=\"english-text\">The tribe of Gad were the ultimate warriors of Israel. The Midrash describes them as fierce and powerful men who lived on the frontier. They were so skilled in battle that they would strike their enemies with a single blow, and their appearance alone was enough to make opposing armies retreat.\n\nThe legend says that when Gad’s soldiers went to war, they looked like lions. They were known for the \"Double Strike\"—they were so precise that they could take down an opponent in one swift move.\n\nWhen the tribes were about to enter the Land of Israel, Gad made a brave choice. Even though their inheritance was on the other side of the Jordan River, they said:\n\n\"We will not rest in our own homes until every one of our brothers has secured their land.\"\n\nThey acted as the Vanguard (the front line), leading the way into every battle. Because of their selflessness and bravery, Moses blessed them, comparing Gad to a lion that tears its prey with confidence and strength.</p>\n\n\n\n\n    </article>",
+      "source_html_file": "wisdom_old.html"
+    },
+    {
+      "id": "tribe_08_asher",
+      "icon": "assets/svg/icons/tribe_08_asher.svg",
+      "meta": "Tribe 08 // The Prosperous",
+      "name": "Asher",
+      "hebrew_name": "אָשֵׁר",
+      "image": "assets/images/tribes/asher.png",
+      "verse_he": "מֵאָשֵׁר שְׁמֵנָה לַחְמוֹ, וְהוּא יִתֵּן מַעֲדַנֵּי מֶלֶךְ.",
+      "verse_en": "From Asher his bread shall be fat... — (Genesis 49:20)",
+      "stories": [
+        {
+          "title": "Asher: The Provider of Joy",
+          "text": "Oil-rich territory; wealth used to bring comfort, light, and joy—peace through generosity."
+        }
+      ],
+      "pinterest_text": "Asher’s story is olive-oil abundance with purpose: prosperity used to comfort others and bring light to the Temple.",
+      "full_html": "<article class=\"wisdom-post tribe-detail\">\n        <div class=\"post-meta\">Tribe 08 // The Prosperous</div>\n        <div class=\"tribe-header\">\n            <img src=\"assets/images/tribes/asher.png\" alt=\"Asher\" class=\"wisdom-tribe-icon\">\n            <h2>Asher (אָשֵׁר)</h2>\n        </div>\n        <div class=\"post-content\">\n            <p class=\"hebrew-text\">\"מֵאָשֵׁר שְׁמֵנָה לַחְמוֹ, וְהוּא יִתֵּן מַעֲדַנֵּי מֶלֶךְ.\"</p>\n            <p class=\"english-text\">\"From Asher his bread shall be fat, and he shall yield royal dainties.\" — (Genesis 49:20)</p>\n        </div>\n\n<h2>Asher: The Provider of Joy</h2>\n\t<p class=\"english-text\">The tribe of Asher lived in a land blessed with endless olive groves. The Midrash says that in Asher’s territory, oil flowed like a river, and no one there ever knew the meaning of want.\n\nThe legend tells us that Asher was the most beloved of all the brothers. Why? Because he dedicated his life to making others feel comfortable. Whenever a brother was in need or a traveler was weary, Asher would provide them with the finest oils and delicacies.\n\nJacob blessed him by saying:\n\n\"From Asher comes rich food; he will provide delicacies fit for a king.\"\n\nThe Midrash also adds a beautiful detail: Asher’s daughters were known for their wisdom and grace, and many of them married High Priests and Kings. This was a reward for Asher’s character—he was a man of peace who used his wealth not for power, but to bring light and olive oil to the Temple and smiles to the faces of his family.</p>\n\n\n\n    </article>",
+      "source_html_file": "wisdom_old.html"
+    },
+    {
+      "id": "tribe_09_issachar",
+      "icon": "assets/svg/icons/tribe_09_issachar.svg",
+      "meta": "Tribe 09 // The Scholar",
+      "name": "Issachar",
+      "hebrew_name": "יִשָּׂשכָר",
+      "image": "assets/images/tribes/issachar.png",
+      "verse_he": "יִשָּׂשכָר חֲמֹר גָּרֶם, רֹבֵץ בֵּין הַמִּשְׁפְּתָיִם.",
+      "verse_en": "Issachar is a strong donkey... — (Genesis 49:14)",
+      "stories": [
+        {
+          "title": "Issachar: The Scholar of Time",
+          "text": "Calendars, stars, and Torah—plus the Zebulun pact: commerce supports study, study protects commerce."
+        }
+      ],
+      "pinterest_text": "Issachar’s pact with Zebulun: business funds wisdom—and wisdom becomes the anchor that protects the journey.",
+      "full_html": "<article class=\"wisdom-post tribe-detail\">\n        <div class=\"post-meta\">Tribe 09 // The Scholar</div>\n        <div class=\"tribe-header\">\n            <img src=\"assets/images/tribes/issachar.png\" alt=\"Issachar\" class=\"wisdom-tribe-icon\">\n            <h2>Issachar (יִשָּׂשכָר)</h2>\n        </div>\n        <div class=\"post-content\">\n            <p class=\"hebrew-text\">\"יִשָּׂשכָר חֲמֹר גָּרֶם, רֹבֵץ בֵּין הַמִּשְׁפְּתָיִם.\"</p>\n            <p class=\"english-text\">\"Issachar is a strong donkey, couching down between the sheepfolds.\" — (Genesis 49:14)</p>\n        </div>\n<h2>Issachar: The Scholar of Time</h2>\n\t<p class=\"english-text\">Unlike his brothers who were warriors or shepherds, Issachar was the tribe of wisdom and Torah. The Midrash describes Issachar as the \"backbone\" of the brothers' spiritual life.\n\nIt is said that Issachar had a unique gift: he understood the secrets of the stars and the cycles of time. While the other tribes were busy with the physical world, the men of Issachar sat in their tents, calculating the calendar and teaching the nation when to celebrate the festivals.Their legend is often tied to their brother Zebulun. They made a famous pact:\n\"Zebulun will sail the seas and trade, providing the gold to support Issachar. In return, the merit of Issachar’s constant study will protect Zebulun on the waves.\"\nBecause of this partnership, Issachar is remembered as the one who brought the light of knowledge to the entire nation.</p>\n\n    </article>",
+      "source_html_file": "wisdom_old.html"
+    },
+    {
+      "id": "tribe_10_zebulun",
+      "icon": "assets/svg/icons/tribe_10_zebulun.svg",
+      "meta": "Tribe 10 // The Voyager",
+      "name": "Zebulun",
+      "hebrew_name": "זְבוּלוּן",
+      "image": "assets/images/tribes/zebulun.png",
+      "verse_he": "זְבוּלֻן לְחוֹף יַמִּים יִשְׁכֹּן, וְהוּא לְחוֹף אֳנִיֹּת.",
+      "verse_en": "Zebulun shall dwell at the shore of the sea... — (Genesis 49:13)",
+      "stories": [
+        {
+          "title": "Zebulun: The Guardian of the Seas",
+          "text": "A merchant prince who practiced “business of kindness,” supporting Issachar and honoring wisdom as the anchor."
+        }
+      ],
+      "pinterest_text": "Zebulun’s Midrash: trade with purpose—wealth becomes support for Torah, and Torah becomes protection at sea.",
+      "full_html": "<article class=\"wisdom-post tribe-detail\">\n        <div class=\"post-meta\">Tribe 10 // The Voyager</div>\n        <div class=\"tribe-header\">\n            <img src=\"assets/images/tribes/zebulun.png\" alt=\"Zebulun\" class=\"wisdom-tribe-icon\">\n            <h2>Zebulun (זְבוּלוּן)</h2>\n        </div>\n        <div class=\"post-content\">\n            <p class=\"hebrew-text\">\"זְבוּלֻן לְחוֹף יַמִּים יִשְׁכֹּן, וְהוּא לְחוֹף אֳנִיֹּת.\"</p>\n            <p class=\"english-text\">\"Zebulun shall dwell at the shore of the sea; he shall be a shore for ships.\" — (Genesis 49:13)</p>\n        </div>\n\n<h2>Zebulun: The Guardian of the Seas</h2>\n\t<p class=\"english-text\">While his brothers worked the land, Zebulun looked toward the horizon. The Midrash tells us that Zebulun was the \"merchant prince\" of the tribes. His territory sat upon the shores of the Mediterranean, and his ships traveled to far-off lands.\n\nThe legend says that Zebulun was the first to practice the \"Business of Kindness.\" He didn't seek wealth for himself; he sought it to sustain his brother Issachar, who spent his days studying.\n\nIt is told that whenever Zebulun’s ships returned from a long journey, he would go straight to Issachar’s tent and say:\n\n\"Take the best of my earnings, for your wisdom is the anchor that keeps my ships safe in the storm. Without your prayers and your Torah, my sails would have no wind.\"\n\nBecause of his generosity, the Torah mentions Zebulun before Issachar in the blessings, teaching us that the one who supports knowledge is just as great as the one who gains it.</p>\n\n\n\n    </article>",
+      "source_html_file": "wisdom_old.html"
+    },
+    {
+      "id": "tribe_11_benjamin",
+      "icon": "assets/svg/icons/tribe_11_benjamin.svg",
+      "meta": "Tribe 11 // The Beloved",
+      "name": "Benjamin",
+      "hebrew_name": "בִּנְיָמִין",
+      "image": "assets/images/tribes/benjamin.png",
+      "verse_he": "בִּנְיָמִין זְאֵב יִטְרָף, בַּבֹּקֶר יֹאכַל עַד וְלָעֶרֶב יְחַלֵּק שָׁלָל.",
+      "verse_en": "Benjamin is a ravenous wolf... — (Genesis 49:27)",
+      "stories": [
+        {
+          "title": "Benjamin: The Beloved Host",
+          "text": "Purity and humility: the Temple rests in Benjamin’s portion because God loves the humble and the innocent."
+        }
+      ],
+      "pinterest_text": "Benjamin’s legend: humility wins the Temple. Silence and innocence make space for the Shekhinah to dwell.",
+      "full_html": "<article class=\"wisdom-post tribe-detail\">\n        <div class=\"post-meta\">Tribe 11 // The Beloved</div>\n        <div class=\"tribe-header\">\n            <img src=\"assets/images/tribes/benjamin.png\" alt=\"Benjamin\" class=\"wisdom-tribe-icon\">\n            <h2>Benjamin (בִּנְיָמִין)</h2>\n        </div>\n        <div class=\"post-content\">\n            <p class=\"hebrew-text\">\"בִּנְיָמִין זְאֵב יִטְרָף, בַּבֹּקֶר יֹאכַל עַד וְלָעֶרֶב יְחַלֵּק שָׁלָל.\"</p>\n            <p class=\"english-text\">\"Benjamin is a ravenous wolf; in the morning he devours the prey, and at evening he divides the spoil.\" — (Genesis 49:27)</p>\n        </div>\n\n<h2>Benjamin: The Beloved Host</h2>\n\t<p class=\"english-text\">Benjamin was the youngest of the twelve brothers and was known for his absolute innocence. The Midrash explains that because Benjamin was the only brother who did not take part in the selling of Joseph, his heart remained pure and untainted by conflict.\n\nThere is a beautiful legend about why the Holy Temple (the Beit HaMikdash) was built in Benjamin’s territory. The Midrash says that all the other tribes argued, each claiming the Temple should be on their land. But Benjamin remained silent, showing humility.\n\nJacob blessed him, calling him a \"Ravenous Wolf\" (Zeev Yitraf). While this sounds fierce, the sages explain it as a spiritual metaphor: just as a wolf \"seizes\" its prey, the altar in Benjamin’s land would \"seize\" the offerings to bring peace between Heaven and Earth.\n\nThe Divine Presence chose to rest in Benjamin's portion because, as the Midrash says:\n\n\"God loves the humble. Since Benjamin never caused his brother pain, his land became the permanent home for the Shekhinah (the Divine Presence).\"</p>\n\n\n    </article>",
+      "source_html_file": "wisdom_old.html"
+    },
+    {
+      "id": "joseph_double_portion",
+      "icon": "assets/svg/icons/joseph_double_portion.svg",
+      "meta": "The Double Portion // Menashe & Ephraim",
+      "name": "Josef",
+      "hebrew_name": "יוסף",
+      "image": "assets/images/tribes/josef.png",
+      "title": "Joseph: The Keeper of Dreams",
+      "sections": [
+        {
+          "type": "paragraphs",
+          "items": [
+            "Joseph is known as the Tzadik (the Righteous) because he maintained faith and integrity in Egypt’s pits.",
+            "He rose to power without revenge, seeing a Divine Blueprint behind suffering.",
+            "He told his brothers: do not be distressed—God sent me ahead to save lives."
+          ]
+        }
+      ],
+      "subsections": [
+        {
+          "id": "menashe",
+          "icon": "assets/svg/icons/menashe.svg",
+          "name": "Menashe",
+          "hebrew_name": "מְנַשֶּׁה",
+          "verse_he": "וְהֵם אַלְפֵי מְנַשֶּׁה.",
+          "verse_en": "They are the thousands of Manasseh. — (Deuteronomy 33:17)"
+        },
+        {
+          "id": "ephraim",
+          "icon": "assets/svg/icons/ephraim.svg",
+          "name": "Ephraim",
+          "hebrew_name": "אֶפְרַיִם",
+          "verse_he": "מְבֹרֶכֶת יְהוָה אַרְצוֹ, מִמֶּגֶד שָׁמַיִם מִטָּל.",
+          "verse_en": "May his land be blessed by the Lord with the precious dew from heaven. — (Deuteronomy 33:13)"
+        }
+      ],
+      "pinterest_text": "Joseph’s Midrash: integrity in exile + forgiveness in power. Dreams become destiny—and his sons become tribes.",
+      "full_html": "<article class=\"wisdom-post tribe-detail\">\n        <div class=\"post-meta\">The Double Portion // Menashe & Ephraim</div>\n        <div class=\"union-box\">\n\t<div class=\"union-letter\">\n                <img src=\"assets/images/tribes/josef.png\" alt=\"Josef\" class=\"wisdom-tribe-icon\">\n\n            </div>\n\t <h2>Josef (יוסף)</h2>\n       <h2>Joseph: The Keeper of Dreams</h2>\n       <p class=\"english-text\">Joseph is known as the \"Tzadik\" (the Righteous) because he maintained his faith and integrity even in the lowest pits of Egypt. The Midrash tells us that Joseph's beauty was so radiant it reminded his father, Jacob, of the light of the first man in Eden.\n\nThe legend says that while Joseph was a slave and later a prisoner, he never lost his ability to dream. When he eventually rose to power as the Viceroy of Egypt, he didn't seek revenge against the brothers who sold him. Instead, he saw the \"Divine Blueprint\" behind his suffering.\n\nThe Midrash describes a moving moment: When Joseph finally revealed himself to his brothers, he wept so loudly that the entire palace shook. He told them:\n\n\"Do not be distressed or angry with yourselves for selling me here, because it was to save lives that God sent me ahead of you.\"\n\nJacob blessed him as a \"Fruitful Bough\" (Ben Porat Yosef), a vine that grows over the walls. Just as a vine provides shade and fruit to those on the outside, Joseph used his power to feed the entire world during the great famine, proving that true leadership is the art of providing for others. Josef sons became tribes as Jacob blessed them too: </p>\n\n\n\n\n        </div>\n        <div class=\"post-content\">\n            <div class=\"tribe-sub-section\">\n                <h4>Menashe (מְנַשֶּׁה)</h4>\n                <p class=\"hebrew-text small\">\"וְהֵם אַלְפֵי מְנַשֶּׁה.\"</p>\n                <p class=\"english-text\">\"They are the thousands of Manasseh.\" — (Deuteronomy 33:17)</p>\n            </div>\n            <div class=\"tribe-sub-section\">\n                <h4>Ephraim (אֶפְרַיִם)</h4>\n                <p class=\"hebrew-text small\">\"מְבֹרֶכֶת יְהוָה אַרְצוֹ, מִמֶּגֶד שָׁמַיִם מִטָּל.\"</p>\n                <p class=\"english-text\">\"May his land be blessed by the Lord with the precious dew from heaven.\" — (Deuteronomy 33:13)</p>\n            </div>\n        </div>\n    </article>",
+      "source_html_file": "wisdom_old.html"
+    }
+  ]
+}
